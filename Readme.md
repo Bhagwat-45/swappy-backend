@@ -35,7 +35,7 @@ To ensure consistency across the development team, an automated setup script is 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/[USERNAME]/swappy-backend.git
+git clone https://github.com/Bhagwat-45/swappy-backend.git
 cd swappy-backend
 ```
 
